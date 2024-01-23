@@ -1,7 +1,7 @@
 # **Hello there!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 Welcome to my github profile! I'm a computer engineer and a web developer currently on the track of becoming a Full-Stack Developer.
 
-I started development on year 2022. Check my [Portfolio](https://kerbethecoder.com/) and a simple [project](https://the-notepad-by-kerbe.vercel.app/) of mine. If you want to work together or contact me, check the links or email me through here: kerbycantos@gmail.com.   
+I started development on year 2022. Check my [Portfolio](https://kerbethecoder.com/) and a recent [project](https://the-notepad-by-kerbe.vercel.app/) of mine. If you want to work together or contact me, check the links or email me through here: kerbycantos@gmail.com.   
 
 <img src='https://i.pinimg.com/originals/c5/58/09/c55809c170db94ec817640568b7875e0.gif' width='80' />
 <div id="badges">
