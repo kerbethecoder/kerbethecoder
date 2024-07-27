@@ -2,7 +2,7 @@
 Welcome to my github profile! I'm a computer engineer and a web developer currently on the track of becoming a Full-Stack Developer.
 
 I started development on year 2022. Check my [Portfolio](https://kerbethecoder.com/) and a recent [project](https://the-notepad-by-kerbe.vercel.app/) of mine. If you want to work together or contact me, check the links or email me through here: kerbycantos@gmail.com.   
-
+<!-- add 'most languages use https://github.com/Yuan-ManX -->
 <img src='https://i.pinimg.com/originals/c5/58/09/c55809c170db94ec817640568b7875e0.gif' width='80' />
 <div id="badges">
       <a href='https://www.linkedin.com/in/krbycnts/'>
